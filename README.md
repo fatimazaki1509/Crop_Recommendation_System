@@ -1,3 +1,4 @@
+<img width="1907" height="819" alt="Screenshot 2025-09-11 015411" src="https://github.com/user-attachments/assets/ec0346fc-17b9-464d-b513-885b88d3eeff" />
 # 🌱 Crop Recommendation System  
 
 An AI-powered **Crop Recommendation System** built using **Machine Learning** and deployed with **Flask**.  
