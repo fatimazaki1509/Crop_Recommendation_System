@@ -1,4 +1,6 @@
-<img width="1907" height="819" alt="Screenshot 2025-09-11 015411" src="https://github.com/user-attachments/assets/ec0346fc-17b9-464d-b513-885b88d3eeff" />
+ <img width="1883" height="920" alt="Screenshot 2025-09-11 182805" src="https://github.com/user-attachments/assets/a161b08a-3142-49c4-9e0c-dcdfb20605b5" />
+<img width="1919" height="927" alt="Screenshot 2025-09-11 182712" src="https://github.com/user-attachments/assets/b4dbcc1c-820c-4d2f-8b25-2648c9900469" />
+
 # 🌱 Crop Recommendation System  
 
 An AI-powered **Crop Recommendation System** built using **Machine Learning** and deployed with **Flask**.  
@@ -90,4 +92,4 @@ This project is licensed under the MIT License.
 
 ---
 
-![Crop Recommendation UI](screenshots/home.png)
+
